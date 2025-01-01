@@ -4,8 +4,10 @@
 using namespace std;
 
 int main(){
-    map<string no nim nama mahasiswa>;
-    
+    string nama;
+    string kelas;
+    string nim;
+    string jurusan;
     
     cout<<"masukan data berikut: "<<endl;
     
